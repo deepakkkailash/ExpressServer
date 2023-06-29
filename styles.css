@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: skyblue;
+}
+
+#form{
+    position: absolute;
+    top:50%;
+    left:40%;
+}
